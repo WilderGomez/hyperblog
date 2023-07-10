@@ -1,0 +1,60 @@
+[33mcommit 400459df1fb940a3ee9a7254cc018fe1750814b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3ac371d 6767117
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Fri May 12 10:47:11 2023 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit 3ac371da63c77c1ef5b252dd66e01933e7e7d0df[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Fri May 12 10:43:05 2023 -0500
+
+    Agregado el contenido adicional del blog y una mejor tipografia
+
+[33mcommit 6767117861335615c9ac331595eb25d857f636e7[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Fri May 12 10:37:31 2023 -0500
+
+    Finalizada la cabecera con diseño azul
+
+[33mcommit 0eb9ffd9be65d7590e646b79aebe84594e1953f2[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Thu May 11 12:02:37 2023 -0500
+
+    Estructura inicial de la cabecera
+
+[33mcommit ed5cd19a926be01faf4f6c71c69313153d1d6103[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Thu May 11 11:24:35 2023 -0500
+
+    commit al master del blogpost en su version mas reciente
+
+[33mcommit 06a9b41f9385bea54c1a862f241ae9f48c43bd5b[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Wed May 10 19:54:24 2023 -0500
+
+    Cambio de maestria
+
+[33mcommit b802b7006bb23d778b123533723994792ff8766c[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Wed May 10 19:53:38 2023 -0500
+
+    Cambio de vida
+
+[33mcommit 27ddf936edd3b2ad463c275e903e8a1fd715c03b[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Wed May 10 19:51:32 2023 -0500
+
+    arranco mi proyecto real con html y css
+
+[33mcommit 4dadff411a22a555bf3d7502dea194cfa82f3307[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Wed May 10 19:01:57 2023 -0500
+
+    cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit 996b99ef2409d148d38e8396c9b2593800cba21d[m
+Author: Wilder Gomez <Wilder9509@gmail.com>
+Date:   Wed May 10 18:58:19 2023 -0500
+
+    Este es el primer commit de este archivo
